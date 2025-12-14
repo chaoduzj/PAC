@@ -13,10 +13,10 @@
     {
       "type": "vless",
       "tag": "https://github.com/Alvin9999/new-pac/wiki",
-      "uuid": "582d6615-b8a3-4674-96c1-5b087563b091",
+      "uuid": "939db115-dea1-4806-a9fc-bd4e6c0213a4",
       "packet_encoding": "xudp",
-      "server": "62.210.123.16",
-      "server_port": 12618,
+      "server": "89.144.35.232",
+      "server_port": 18952,
       "flow": "",
       "tls": {
         "enabled": true,
@@ -27,8 +27,8 @@
         },
         "reality": {
           "enabled": true,
-          "public_key": "Y3mEtIPC1rjwUrwJ4UsqX6QeZnJUoBN6hG2rRSQx4Rw",
-          "short_id": "8c4e4d7198e3631c"
+          "public_key": "cbE6Dwv3-JG7qTLa1QC0nDo33cS0jyeMOkp5pHL65wg",
+          "short_id": "650002d03178115e"
         }
       },
     "multiplex": {
